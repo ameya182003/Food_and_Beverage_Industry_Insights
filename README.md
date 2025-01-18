@@ -11,10 +11,10 @@ This project, part of the Codebasics Resume Project Challenge, focuses on analyz
 Analyze the survey results from 10,000 respondents to identify key consumer trends, preferences, and potential strategies for increasing brand awareness, market share, and product development.
 
 ### **Tools Used:**
-- **Power BI:** For data visualization and dashboard creation.
+- **Excel:** For data validation and initial exploration.
 - **SQL:** For querying and analyzing the survey data.
 - **Power Query:** For efficient data cleaning and transformation.
-- **Excel:** For data validation and initial exploration.
+- **Power BI:** For data visualization and dashboard creation. 
 
 ## 📈 Approach
 
@@ -32,9 +32,7 @@ Analyze the survey results from 10,000 respondents to identify key consumer tren
      - Which demographics show the highest purchase intent?
    - Utilized **Power BI** to create interactive visualizations for trends, regional insights, and consumer preferences.
    - Combined SQL-derived insights with visualizations to provide a comprehensive analysis.
-
-4. **Presentation:**
-   - Developed a video presentation to deliver clear, concise, and actionable insights tailored to CodeX's marketing objectives.
+   
 
 ### **Outcome:**
 - Extracted meaningful insights using SQL and Power BI to guide CodeX’s marketing strategies and product development.
