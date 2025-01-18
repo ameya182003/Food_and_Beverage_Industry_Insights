@@ -52,7 +52,8 @@ Analyze the survey results from 10,000 respondents to identify key consumer tren
 
 ### Mobile 
 
-![WhatsApp Image 2025-01-18 at 12 47 05_617e4e73](https://github.com/user-attachments/assets/7bba4159-116e-4f4e-a9c3-39f4963dfb6e)
+<img src="https://github.com/user-attachments/assets/7bba4159-116e-4f4e-a9c3-39f4963dfb6e" width=360 height=640>
+
 
 ## Consumer Preferences
 ### Desktop
@@ -61,7 +62,8 @@ Analyze the survey results from 10,000 respondents to identify key consumer tren
 
 ### Mobile
 
-![WhatsApp Image 2025-01-18 at 12 26 06_ea1236dc](https://github.com/user-attachments/assets/391a6925-6d72-4d21-bc00-761c06c6bb13)
+<img src="https://github.com/user-attachments/assets/391a6925-6d72-4d21-bc00-761c06c6bb13" width=360 height=640>
+
 
 ## Competition Analysis
 ### Desktop
@@ -70,7 +72,8 @@ Analyze the survey results from 10,000 respondents to identify key consumer tren
 
 ### Mobile
 
-![WhatsApp Image 2025-01-18 at 12 26 07_3bfc566e](https://github.com/user-attachments/assets/694c89db-6b9e-4e6b-b4e1-fdd76f42f38d)
+<img src="https://github.com/user-attachments/assets/694c89db-6b9e-4e6b-b4e1-fdd76f42f38d" width=360 height=640>
+
 
 ## CodeX Performance 
 ### Desktop
@@ -79,7 +82,8 @@ Analyze the survey results from 10,000 respondents to identify key consumer tren
 
 ### Mobile
 
-![WhatsApp Image 2025-01-18 at 12 26 07_c661ac65](https://github.com/user-attachments/assets/7d1dee19-771c-47a2-93d6-0d34f7a67eba)
+<img src="https://github.com/user-attachments/assets/7d1dee19-771c-47a2-93d6-0d34f7a67eba" width=360 height=640>
+
 
 ## Feedback and Contributions
 
